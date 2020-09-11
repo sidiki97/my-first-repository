@@ -9,3 +9,10 @@
 <li>Algorithms</li>
 <li>Big O</li>
 </ul>
+
+<ol>
+  <li>Software Engineer</li>
+  <li>Artificial Intelligence</li>
+  <li>Machine Learning</li>
+  <li>Computer Vision</li>
+</ol>
